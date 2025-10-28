@@ -44,9 +44,10 @@ except sr.RequestError as e:
     print(f'Error with the request to Google Speech Recognition service: {e}')
 except Exception as e:
     print(f'Error: {e}')
-
+```
 
 <H3> Output:</H3>
-Show the results here
+<img width="1045" height="56" alt="image" src="https://github.com/user-attachments/assets/e225e61a-5d59-4be0-80dd-da40b91808e5" />
+
 
 <H3> Result:</H3>
